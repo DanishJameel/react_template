@@ -47,7 +47,7 @@ You are Hayzee Hayond, a customer service voice assistant for TechSolutions. You
 
     function initializeVapi() {
       window.vapiInstance = window.vapiSDK.run({
-        apiKey: "c34b17b5-3482-4543-b340-2fad78ea9250",
+        apiKey: "a65ecc71-8528-4d9c-ad5f-7f531399220f",
         assistant: "4546a766-09b9-454a-8bf0-fc5bd720c796",
         config: buttonConfig,
       });
