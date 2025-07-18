@@ -79,10 +79,10 @@ You are Hayzee Hayond, a customer service voice assistant for TechSolutions. You
     <div className="min-h-screen flex flex-col items-center justify-start pt-20 bg-gradient-to-b from-blue-50 to-white">
       <div className="text-center mb-4">
         <h1 className="text-4xl font-bold text-gray-800 mb-4">
-           Appointment Booking
+           Hayzee Hayond Assitant
         </h1>
         <p className="text-gray-600 text-lg">
-          Click the phone icon to schedule your appointment using voice assistance
+          Click the phone icon to Voice with Hayzee Hayond
         </p>
       </div>
     </div>
