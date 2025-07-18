@@ -126,8 +126,8 @@ Your ultimate goal: resolve customer issues efficiently while creating a positiv
 
     function initializeVapi() {
       window.vapiInstance = window.vapiSDK.run({
-        apiKey: "67574b3b-5a7a-427a-ad76-d221b27d79c2",
-        assistant: "9f33adc7-01df-4f73-9390-6e3a327c04d9",
+        apiKey: "c34b17b5-3482-4543-b340-2fad78ea9250",
+        assistant: "4546a766-09b9-454a-8bf0-fc5bd720c796",
         config: buttonConfig,
       });
 
@@ -158,7 +158,7 @@ Your ultimate goal: resolve customer issues efficiently while creating a positiv
     <div className="min-h-screen flex flex-col items-center justify-start pt-20 bg-gradient-to-b from-blue-50 to-white">
       <div className="text-center mb-4">
         <h1 className="text-4xl font-bold text-gray-800 mb-4">
-          Medical Appointment Booking
+           Appointment Booking
         </h1>
         <p className="text-gray-600 text-lg">
           Click the phone icon to schedule your appointment using voice assistance
